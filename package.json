@@ -1,0 +1,22 @@
+{
+  "name": "ssonomer1",
+  "version": "1.0.0",
+  "description": "helping programm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tolifechange/ssonomer1.git"
+  },
+  "dependencies": {
+    "teagena":"1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolifechange/ssonomer1/issues"
+  },
+  "homepage": "https://github.com/tolifechange/ssonomer1#readme"
+}
